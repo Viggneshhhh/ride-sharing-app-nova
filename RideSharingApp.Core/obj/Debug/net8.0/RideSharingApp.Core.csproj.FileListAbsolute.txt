@@ -1,0 +1,11 @@
+D:\VS Projects\RideSharingApp.Core\bin\Debug\net8.0\RideSharingApp.Core.deps.json
+D:\VS Projects\RideSharingApp.Core\bin\Debug\net8.0\RideSharingApp.Core.dll
+D:\VS Projects\RideSharingApp.Core\bin\Debug\net8.0\RideSharingApp.Core.pdb
+D:\VS Projects\RideSharingApp.Core\obj\Debug\net8.0\RideSharingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\RideSharingApp.Core\obj\Debug\net8.0\RideSharingApp.Core.AssemblyInfoInputs.cache
+D:\VS Projects\RideSharingApp.Core\obj\Debug\net8.0\RideSharingApp.Core.AssemblyInfo.cs
+D:\VS Projects\RideSharingApp.Core\obj\Debug\net8.0\RideSharingApp.Core.csproj.CoreCompileInputs.cache
+D:\VS Projects\RideSharingApp.Core\obj\Debug\net8.0\RideSharingApp.Core.dll
+D:\VS Projects\RideSharingApp.Core\obj\Debug\net8.0\refint\RideSharingApp.Core.dll
+D:\VS Projects\RideSharingApp.Core\obj\Debug\net8.0\RideSharingApp.Core.pdb
+D:\VS Projects\RideSharingApp.Core\obj\Debug\net8.0\ref\RideSharingApp.Core.dll
