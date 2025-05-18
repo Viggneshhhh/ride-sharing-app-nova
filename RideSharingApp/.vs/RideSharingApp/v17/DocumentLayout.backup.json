@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS Projects\\RideSharingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{631CED16-3D06-49DE-8571-047C42B47932}|..\\RideSharingApp.Core\\RideSharingApp.Core.csproj|d:\\vs projects\\ridesharingapp.core\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631CED16-3D06-49DE-8571-047C42B47932}|..\\RideSharingApp.Core\\RideSharingApp.Core.csproj|d:\\vs projects\\ridesharingapp.core\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631CED16-3D06-49DE-8571-047C42B47932}|..\\RideSharingApp.Core\\RideSharingApp.Core.csproj|d:\\vs projects\\ridesharingapp.core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631CED16-3D06-49DE-8571-047C42B47932}|..\\RideSharingApp.Core\\RideSharingApp.Core.csproj|d:\\vs projects\\ridesharingapp.core\\services\\rideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631CED16-3D06-49DE-8571-047C42B47932}|..\\RideSharingApp.Core\\RideSharingApp.Core.csproj|d:\\vs projects\\ridesharingapp.core\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CB8C17-3B19-42C2-8F1C-920B74E85291}|RideSharingApp.csproj|d:\\vs projects\\ridesharingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CB8C17-3B19-42C2-8F1C-920B74E85291}|RideSharingApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631CED16-3D06-49DE-8571-047C42B47932}|..\\RideSharingApp.Core\\RideSharingApp.Core.csproj|d:\\vs projects\\ridesharingapp.core\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CB8C17-3B19-42C2-8F1C-920B74E85291}|RideSharingApp.csproj|d:\\vs projects\\ridesharingapp\\ridesharingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46CB8C17-3B19-42C2-8F1C-920B74E85291}|RideSharingApp.csproj|solutionrelative:ridesharingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RideSharingApp",
+              "DocumentMoniker": "D:\\VS Projects\\RideSharingApp\\RideSharingApp.csproj",
+              "RelativeDocumentMoniker": "RideSharingApp.csproj",
+              "ToolTip": "D:\\VS Projects\\RideSharingApp\\RideSharingApp.csproj",
+              "RelativeToolTip": "RideSharingApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T12:48:01.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RideService.cs",
+              "DocumentMoniker": "D:\\VS Projects\\RideSharingApp.Core\\Services\\RideService.cs",
+              "RelativeDocumentMoniker": "..\\RideSharingApp.Core\\Services\\RideService.cs",
+              "ToolTip": "D:\\VS Projects\\RideSharingApp.Core\\Services\\RideService.cs",
+              "RelativeToolTip": "..\\RideSharingApp.Core\\Services\\RideService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:02:22.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverService.cs",
+              "DocumentMoniker": "D:\\VS Projects\\RideSharingApp.Core\\Services\\DriverService.cs",
+              "RelativeDocumentMoniker": "..\\RideSharingApp.Core\\Services\\DriverService.cs",
+              "ToolTip": "D:\\VS Projects\\RideSharingApp.Core\\Services\\DriverService.cs",
+              "RelativeToolTip": "..\\RideSharingApp.Core\\Services\\DriverService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA4wBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:28:55.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "D:\\VS Projects\\RideSharingApp.Core\\Ride.cs",
+              "RelativeDocumentMoniker": "..\\RideSharingApp.Core\\Ride.cs",
+              "ToolTip": "D:\\VS Projects\\RideSharingApp.Core\\Ride.cs",
+              "RelativeToolTip": "..\\RideSharingApp.Core\\Ride.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:36:42.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\VS Projects\\RideSharingApp.Core\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\RideSharingApp.Core\\Vehicle.cs",
+              "ToolTip": "D:\\VS Projects\\RideSharingApp.Core\\Vehicle.cs",
+              "RelativeToolTip": "..\\RideSharingApp.Core\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:34:43.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\VS Projects\\RideSharingApp.Core\\Location.cs",
+              "RelativeDocumentMoniker": "..\\RideSharingApp.Core\\Location.cs",
+              "ToolTip": "D:\\VS Projects\\RideSharingApp.Core\\Location.cs",
+              "RelativeToolTip": "..\\RideSharingApp.Core\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:27:01.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\VS Projects\\RideSharingApp.Core\\User.cs",
+              "RelativeDocumentMoniker": "..\\RideSharingApp.Core\\User.cs",
+              "ToolTip": "D:\\VS Projects\\RideSharingApp.Core\\User.cs",
+              "RelativeToolTip": "..\\RideSharingApp.Core\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:16:27.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS Projects\\RideSharingApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VS Projects\\RideSharingApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:15:07.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
